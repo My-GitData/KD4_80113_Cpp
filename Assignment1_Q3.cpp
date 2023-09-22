@@ -13,8 +13,8 @@ class Student{
 void initStudent()
 {
     roll_no=001;
-    name="Sahil";
-    marks=97;
+    name="Sam";
+    marks=90;
 }
 void printfStudentOnConsole()
 {
