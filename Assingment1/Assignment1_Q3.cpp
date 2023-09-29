@@ -22,7 +22,7 @@ public:
     void initStudent()
     {
         this->rollno = 000;
-        this->name = "krishna";
+        this->name = "Tarun";
         this->marks = 000;
     }
 
